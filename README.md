@@ -1,4 +1,5 @@
 This is my first proyect with just html, css, and javascript.
+You can see the photos or directly via: https://juancarlosccc.github.io/Notflix/
 
 ![image](https://github.com/user-attachments/assets/f8901fca-5148-43de-898a-ac4cb34a757c)
 
