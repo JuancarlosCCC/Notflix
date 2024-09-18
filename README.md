@@ -1,3 +1,5 @@
+This is my first proyect with just html, css, and javascript.
+
 ![image](https://github.com/user-attachments/assets/f8901fca-5148-43de-898a-ac4cb34a757c)
 ![image](https://github.com/user-attachments/assets/4ab25ad1-c325-4531-a270-728522eeb4b2)
 ![image](https://github.com/user-attachments/assets/26b2be32-911c-437a-8c5f-f915a65d1e1f)
